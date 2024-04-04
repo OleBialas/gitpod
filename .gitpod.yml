@@ -1,0 +1,4 @@
+tasks:
+  - before: echo "Before"
+    init: echo "Init"
+    command: echo "Command"
